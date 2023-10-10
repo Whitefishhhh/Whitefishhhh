@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Whitefishhhh/Whitefishhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is zxy, and I'm a cs student!
 
 Here are some ideas to get you started:
 
